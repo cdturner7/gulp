@@ -1,0 +1,10 @@
+@import "base/variables.scss";
+
+body {
+    background: $bg;
+    color: $color;
+}
+
+a {
+    transition: all 320ms ease;
+}
